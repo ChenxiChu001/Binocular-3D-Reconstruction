@@ -45,7 +45,15 @@ This repository contains the implementation of a 3D surface measurement system b
   2. 直接运行主程序，系统将自动进行相位解算、立体匹配并弹出最终的 3D 扫描复原图。
 
 ### 📊 效果展示
-*(请在此处替换为你 `results/` 文件夹中的图片链接)*
-* [左侧放置极线校正/掩码图]
-* [中间放置深度视差图]
-* [右侧放置最终重建的 3D 点云图]
+
+<img width="583" height="461" alt="2" src="https://github.com/user-attachments/assets/672adee4-5aed-4057-a25e-47a73fbf96c6" />
+
+* [极线校正图]
+<img width="660" height="226" alt="3" src="https://github.com/user-attachments/assets/670c1410-b13b-4e59-a729-3568e230ae61" />
+
+* [掩码图]
+<img width="479" height="374" alt="5" src="https://github.com/user-attachments/assets/cab1af3c-7a95-4aa2-a398-922d5568d1ce" />
+
+* [深度视差图]
+<img width="1347" height="947" alt="6" src="https://github.com/user-attachments/assets/b794bedc-e8e2-425d-83bd-a238295ff32d" />
+* [最终重建的 3D 点云图]
